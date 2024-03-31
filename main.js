@@ -3,4 +3,8 @@ const some = {
   year: 23423,
 };
 
-const another = {};
+const another = {
+  name: "another",
+  year: 23423,
+  some: some,
+};
