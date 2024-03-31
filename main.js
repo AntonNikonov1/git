@@ -8,3 +8,10 @@ const another = {
   year: 23423,
   some: some,
 };
+
+const fifth = {
+  name: "fifth",
+  year: 53423,
+  some: some,
+  another: another,
+};
