@@ -1,1 +1,3 @@
-const some = {};
+const some = {
+  name: "some",
+};
