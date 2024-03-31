@@ -15,3 +15,10 @@ const third = {
   some: some,
   another: another,
 };
+
+const fourth = {
+  name: "fourth",
+  year: 42343,
+  some: some,
+  another: another,
+};
