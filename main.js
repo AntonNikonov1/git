@@ -8,5 +8,3 @@ const another = {
   year: 23423,
   some: some,
 };
-
-console.log(another.some);
